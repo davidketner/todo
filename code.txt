@@ -1,1 +1,1 @@
-var xy = "tohle je pokus";
+var xy = "Hello world";
